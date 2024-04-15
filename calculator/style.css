@@ -1,0 +1,8 @@
+body{
+  background-color: #F1F1F1;
+}
+
+.calculator-container {
+    max-width: 400px;
+    margin: 50px auto;
+  }
